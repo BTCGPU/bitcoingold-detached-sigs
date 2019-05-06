@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/bitcoin.icns</key>
 		<data>
-		pwbvMD/xEuRa4mC/siH9FH/o7dw=
+		viC2nZqHeZcPrKsCrdBRD6v5Wew=
 		</data>
 		<key>Resources/empty.lproj</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Resources/qt_da.qm</key>
 		<data>
-		IPCGjLnW67OW95eV6N6lX8Xg9r8=
+		69nezwrKGy8U1ktgd7PxK7ZP8mY=
 		</data>
 		<key>Resources/qt_de.qm</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Resources/qt_es.qm</key>
 		<data>
-		1prruI6h8lJgWKLZMutiCD117qw=
+		bbpLxzaf5AZX8aJ4KkORKaERBaM=
 		</data>
 		<key>Resources/qt_hu.qm</key>
 		<data>
-		CZrXIeNmIBW7ydyQqBBMQR40XaQ=
+		tjY4D5KRwRHLjYhWirNF1Tpi23M=
 		</data>
 		<key>Resources/qt_ru.qm</key>
 		<data>
@@ -70,11 +70,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pwbvMD/xEuRa4mC/siH9FH/o7dw=
+			viC2nZqHeZcPrKsCrdBRD6v5Wew=
 			</data>
 			<key>hash2</key>
 			<data>
-			A790TGw2ZRM3bwhUfzuSYsMKk/UklMG2ZXBWYkpQ4b8=
+			93ZYN+o2bk/mwem9PyPTC/B1dJJoVgPVkX0wksWbxhA=
 			</data>
 		</dict>
 		<key>Resources/empty.lproj</key>
@@ -103,11 +103,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IPCGjLnW67OW95eV6N6lX8Xg9r8=
+			69nezwrKGy8U1ktgd7PxK7ZP8mY=
 			</data>
 			<key>hash2</key>
 			<data>
-			sSsVdGT/lHYfgP5IFGwZ2Tj9IStZFb1d774japjtcy8=
+			UeNjW+b5NPNbyF13hCRcxBFM9YU8nfT9vZvE68YFPvE=
 			</data>
 		</dict>
 		<key>Resources/qt_de.qm</key>
@@ -125,22 +125,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1prruI6h8lJgWKLZMutiCD117qw=
+			bbpLxzaf5AZX8aJ4KkORKaERBaM=
 			</data>
 			<key>hash2</key>
 			<data>
-			C47ncZwKmGu9nEtZ3xgCZuXctdOGSXD9kzc8UhsZVPE=
+			LkzCOHSfPJnJ7mgqX8FHgsmnb0Prx3zIaq+dDIWDxwE=
 			</data>
 		</dict>
 		<key>Resources/qt_hu.qm</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CZrXIeNmIBW7ydyQqBBMQR40XaQ=
+			tjY4D5KRwRHLjYhWirNF1Tpi23M=
 			</data>
 			<key>hash2</key>
 			<data>
-			Lbc5U6uM11fsofnSAQo2RSPbbJsrtfORxHJSofOxeNY=
+			jn3iyLzhg37i+C8I8adJ+aWIYzge5nTi1Ss5/sz9QmI=
 			</data>
 		</dict>
 		<key>Resources/qt_ru.qm</key>
